@@ -1,0 +1,326 @@
+body{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.whole{
+  background-color: #E7BDA4;
+}
+
+.zar{
+  font-family: "IM Fell French Canon", serif;
+  font-style: italic;
+  font-size: 30px;
+ 
+}
+
+.next{
+background: url(/Icon/Group\ 15.png)  0%/cover no-repeat;
+background-size: 450px;
+background-position: right top;
+}
+
+@media (min-width: 400px) {
+  .new{
+    font-family: "IM Fell French Canon", serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 70px;
+    margin-top: 10px;
+  }  
+
+  #home{
+    background-color: #E7BDA4;
+    height: 100vh;
+    /* max-height: 1300px; */
+  }
+
+  .first-text{
+    width: 100%;
+    font-size: 13px;
+  }
+  
+  .fendi-logos{
+    width: 100%;
+  }
+
+  .procards{
+    width: 80%;
+    margin-left: 35px;
+  }
+
+  .rate{
+    width: 200px;
+    /* height: 39px; */
+  }
+
+  .second-text{
+    font-size: 16px;
+  }
+
+  .why-image{
+    width: 365px !important;
+  }
+
+
+  .index{
+    z-index: 10 !important;
+    width: 330px;
+  }
+
+  .indexa{
+    z-index: 1 !important;
+    width: 450px;
+  }
+
+  .ratings{
+    margin-top: -30px !important;
+  }
+
+  .product-highlights{
+    font-size: 32px ;
+    font-weight: bold;
+  }
+
+  .pro-high{
+    font-size: 9px;
+    font-weight: light;
+  }
+
+  .j{
+    width: 20px;
+  }
+
+  .choose{
+    font-size: 32px !important;
+  }
+
+  .next{
+    background: url(/Icon/Group\ 15.png)  0%/cover no-repeat;
+    background-size: 370px;
+    background-position: right top;
+    }
+}
+
+
+@media (min-width: 576px) {
+  .new{
+    font-family: "IM Fell French Canon", serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 100px;
+    margin-top: 65px !important;
+  } 
+
+  #home{
+    background: url(/Icon/Frame\ 136.png) 0% 0%/cover no-repeat;
+    height: 55vh;
+  }
+
+  .first-text{
+    width: 35%;
+    font-size: 12px;
+  }
+
+  .fendi-logos{
+    width: 80%;
+  }
+
+  .procards{
+    width: 100%;
+  }
+
+  .rate{
+    width: 150px;
+
+  }
+
+  .second-text{
+    font-size: 13px;
+  }
+
+  .why-image{
+    width: 265px !important;
+  }
+
+  
+  .index{
+  z-index: 10 !important;
+  width: 250px;
+  }
+
+  .indexa{
+    z-index: 1 !important;
+    width: 250px;
+  }
+
+  .ratings{
+    margin-top: -0px !important;
+  }
+
+  .product-highlights{
+    font-size: 80px ;
+    font-weight: bold;
+  }
+
+  .pro-high{
+    font-size: 18px;
+    font-weight: light;
+  }
+
+  .j{
+    width: 50px;
+  }
+
+  .choose{
+    font-size: 80px !important;
+  }
+
+  .next{
+    background: url(/Icon/Group\ 15.png)  0%/cover no-repeat;
+    background-size: 250px;
+    background-position: right top;
+    }
+}
+
+
+@media (min-width:992px) {
+  .new{
+    font-family: "IM Fell French Canon", serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 228px;
+    margin-top: 180px !important;
+  }  
+
+  #home{
+    background: url(/Icon/Frame\ 136.png) 0% 0%/cover no-repeat;
+    height: 122vh;
+    max-height: 1300px;
+  }
+
+  .first-text{
+    width: 25%;
+    font-size: 16px;
+  }
+  
+  .procards{
+    width: 100%;
+  }
+
+  .rate{
+    width: 200px;
+  }
+
+  .second-text{
+    font-size: 16px;
+  }
+
+  .why-image{
+    width: 465px !important;
+  }
+
+
+  .index{
+    z-index: 10 !important;
+    width: 380px;
+  }
+
+  .indexa{
+    z-index: 1 !important;
+    width: 450px;
+  }
+
+  .product-highlights{
+    font-size: 80px ;
+    font-weight: bold;
+  }
+  
+  .j{
+    width: 50px;
+  }
+}
+
+.shop{
+  font-weight: 800;
+}
+
+.constraint-width{
+  max-width: 1300px;
+}
+
+.rating{
+  justify-content: right;                                                                                                                                                                                                                              
+}
+
+
+.sweat-pants{
+  background-color: #E7BDA4;
+  border-radius: 5px;
+}
+
+.suit{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.suits{
+  font-size: 13px;
+}
+
+#fendi {
+  background-color: #B6947D;
+}
+
+.fendi-icons{
+  width: 80px;
+  justify-content: center !important;
+}
+
+#product-highlight{
+  background-color: #E0BCA4;
+}
+
+.star{
+  align-items: center !important;
+}
+
+.mid{
+  padding-left: 5px !important;
+}
+
+#new-collection{
+  background-color: #E0BCA4;
+}
+
+.shop-card{
+  background-color: #E7BDA4 !important;
+  border: none !important;
+}
+
+.shadow-left{
+  box-shadow: -10px 0px 10px -5px rgba(0, 0, 0, 0.4)
+}
+
+.discount{
+  width: 40px;
+}
+
+
+#why-choose{
+  background-color: black;
+}
+
+.choose{
+  font-size: 80px;
+  font-family: "poppins",sans-serif;
+}
+
+#zaron{
+  background-color: #E7BDA4;
+}
+
+#footer{
+  background-color: black;
+}
